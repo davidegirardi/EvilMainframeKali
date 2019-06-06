@@ -1,5 +1,6 @@
-# MIT License, see LICENSE file
 # Author: Davide Girardi - GiRa
+# GPLv3
+# See LICENSE
 
 # Run this script to get Kali Linux ready for the Evil Mainframe training
 
