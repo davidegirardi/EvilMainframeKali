@@ -7,6 +7,6 @@ Use `evilmfkali.sh` to prepare Kali Linux before attending the Evil Mainframe tr
  2. Install Kali as you prefer
 
  3. Copy `evilmfkali.sh` to the newly installed system and run it with `sudo bash evilmfkali.sh`
-    * `curl http://your.local.web.server/evilmfkali.sh | sudo bash -s` will work too
+    * `curl https://raw.githubusercontent.com/davidegirardi/EvilMainframeKali/master/evilmfkali.sh | sudo bash -s` will work too
 
 ![Deployment](https://raw.githubusercontent.com/davidegirardi/EvilMainframeKali/master/deployment.png)
